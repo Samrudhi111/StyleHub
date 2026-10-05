@@ -5,8 +5,9 @@ import axios from 'axios';
 // Provides clean, promise-based HTTP communication between React and Express REST API
 // ==============================================================================
 
-// 1. Base URL loaded dynamically from Vite environment variable (with fallback)
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://127.0.0.1:5001/api';
+// 1. Base URL loaded dynamically from Vite environment variable (with live Render production fallback)
+const API_BASE_URL =
+  import.meta.env.VITE_API_URL || 'https://stylehub-backend-ja8r.onrender.com/api';
 
 // 2. Configure Axios Instance with defaults
 export const apiClient = axios.create({
