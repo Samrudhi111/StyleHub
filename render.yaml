@@ -1,0 +1,18 @@
+# Render Infrastructure-as-Code Blueprint for StyleHub Backend
+# Documentation: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: stylehub-backend
+    runtime: node
+    plan: free
+    region: singapore
+    rootDir: server
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: CLIENT_URL
+        sync: false
