@@ -1,0 +1,98 @@
+[
+  {
+    "productId": 1,
+    "name": "Classic Denim Jacket",
+    "category": "Men",
+    "description": "Rugged vintage-washed denim jacket crafted with premium heavy-cotton blend.",
+    "price": 2499,
+    "size": ["S", "M", "L", "XL"],
+    "color": "Indigo Blue",
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=600&auto=format&fit=crop&q=80",
+    "featured": true
+  },
+  {
+    "productId": 2,
+    "name": "Floral Summer Dress",
+    "category": "Women",
+    "description": "Breathable chiffon floral wrap dress with waist tie and ruffled hemline.",
+    "price": 1899,
+    "size": ["XS", "S", "M", "L"],
+    "color": "Soft Pink Floral",
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&auto=format&fit=crop&q=80",
+    "featured": true
+  },
+  {
+    "productId": 3,
+    "name": "Slim Fit Chinos",
+    "category": "Men",
+    "description": "Tailored stretch cotton chinos engineered for all-day comfort and mobility.",
+    "price": 1599,
+    "size": ["30", "32", "34", "36"],
+    "color": "Khaki Tan",
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&auto=format&fit=crop&q=80",
+    "featured": false
+  },
+  {
+    "productId": 4,
+    "name": "Oversized Cotton Hoodie",
+    "category": "Men",
+    "description": "Heavyweight 400 GSM fleece cotton hoodie with drop-shoulder silhouette.",
+    "price": 1999,
+    "size": ["M", "L", "XL", "XXL"],
+    "color": "Charcoal Heather",
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=600&auto=format&fit=crop&q=80",
+    "featured": true
+  },
+  {
+    "productId": 5,
+    "name": "High-Waist Wide Leg Trousers",
+    "category": "Women",
+    "description": "Contemporary pleated wide-leg trousers tailored with premium viscose blend.",
+    "price": 2199,
+    "size": ["S", "M", "L"],
+    "color": "Jet Black",
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&auto=format&fit=crop&q=80",
+    "featured": false
+  },
+  {
+    "productId": 6,
+    "name": "Kids Dino Graphic T-Shirt",
+    "category": "Kids",
+    "description": "100% bio-washed organic cotton crew neck t-shirt with playful glow print.",
+    "price": 699,
+    "size": ["4-5Y", "6-7Y", "8-9Y"],
+    "color": "Olive Green",
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=600&auto=format&fit=crop&q=80",
+    "featured": false
+  },
+  {
+    "productId": 7,
+    "name": "Italian Leather Reversible Belt",
+    "category": "Accessories",
+    "description": "Genuine full-grain Italian leather belt featuring a 360-degree rotating buckle.",
+    "price": 1299,
+    "size": ["Free Size"],
+    "color": "Black / Brown",
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=600&auto=format&fit=crop&q=80",
+    "featured": true
+  },
+  {
+    "productId": 8,
+    "name": "Temporary Clearance Stock Item",
+    "category": "Accessories",
+    "description": "Sample clearance accessory to demonstrate delete operations.",
+    "price": 499,
+    "size": ["Free Size"],
+    "color": "Red",
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+    "featured": false
+  }
+]

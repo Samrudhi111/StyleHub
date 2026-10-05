@@ -1,0 +1,10 @@
+STYLEHUB WAREHOUSE INVENTORY RECORD
+Generated: 4/10/2026, 10:40:36 pm
+----------------------------------------------------------------------
+[ID: 101] Classic Denim Jacket      | Category: Men   | Qty: 25 | Price: ₹2499
+[ID: 102] Floral Summer Dress       | Category: Women | Qty: 18 | Price: ₹1899
+[ID: 103] Slim Fit Chinos           | Category: Men   | Qty: 30 | Price: ₹1599
+[ID: 104] Oversized Cotton Hoodie   | Category: Men   | Qty: 15 | Price: ₹1999
+[ID: 105] Italian Leather Belt      | Category: Access| Qty: 50 | Price: ₹1299
+----------------------------------------------------------------------
+Total Items Tracked: 5 Products

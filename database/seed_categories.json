@@ -1,0 +1,26 @@
+[
+  {
+    "categoryId": "CAT001",
+    "name": "Men",
+    "description": "Men's contemporary and formal fashion",
+    "active": true
+  },
+  {
+    "categoryId": "CAT002",
+    "name": "Women",
+    "description": "Women's modern ethnic and casual apparel",
+    "active": true
+  },
+  {
+    "categoryId": "CAT003",
+    "name": "Kids",
+    "description": "Kids' everyday wear and playwear",
+    "active": true
+  },
+  {
+    "categoryId": "CAT004",
+    "name": "Accessories",
+    "description": "Belts, watches, sunglasses, and bags",
+    "active": true
+  }
+]

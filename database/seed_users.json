@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Samrudhi Shinde",
+    "email": "samrudhi@stylehub.com",
+    "mobile": "9876543210",
+    "password": "AdminHashedPassword@2026",
+    "role": "admin"
+  },
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "mobile": "9823456781",
+    "password": "CustomerPassword1#",
+    "role": "customer"
+  },
+  {
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "mobile": "9812345672",
+    "password": "PriyaSecurePass2$",
+    "role": "customer"
+  },
+  {
+    "name": "Rohit Verma",
+    "email": "rohit.verma@example.com",
+    "mobile": "9834567893",
+    "password": "RohitPass3*",
+    "role": "customer"
+  }
+]

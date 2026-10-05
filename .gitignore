@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Production Build Artefacts
+dist/
+dist-ssr/
+*.local
+
+# Environment variables (Never commit real API keys or DB passwords to Git!)
+.env
+.env.local
+.env.*.local
+server/.env
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+npm-debug.log*

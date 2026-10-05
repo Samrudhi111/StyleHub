@@ -1,0 +1,64 @@
+[
+  {
+    "orderId": "ORD-2026-1001",
+    "userId": "aarav.sharma@example.com",
+    "products": [
+      {
+        "productId": 1,
+        "name": "Classic Denim Jacket",
+        "size": "L",
+        "quantity": 1,
+        "unitPrice": 2499
+      },
+      {
+        "productId": 3,
+        "name": "Slim Fit Chinos",
+        "size": "32",
+        "quantity": 1,
+        "unitPrice": 1599
+      }
+    ],
+    "totalAmount": 4098,
+    "orderDate": "2026-10-02T14:20:00.000Z",
+    "status": "Delivered"
+  },
+  {
+    "orderId": "ORD-2026-1002",
+    "userId": "priya.nair@example.com",
+    "products": [
+      {
+        "productId": 2,
+        "name": "Floral Summer Dress",
+        "size": "M",
+        "quantity": 2,
+        "unitPrice": 1899
+      }
+    ],
+    "totalAmount": 3798,
+    "orderDate": "2026-10-02T16:10:00.000Z",
+    "status": "Processing"
+  },
+  {
+    "orderId": "ORD-2026-1003",
+    "userId": "rohit.verma@example.com",
+    "products": [
+      {
+        "productId": 4,
+        "name": "Oversized Cotton Hoodie",
+        "size": "XL",
+        "quantity": 1,
+        "unitPrice": 1999
+      },
+      {
+        "productId": 7,
+        "name": "Italian Leather Reversible Belt",
+        "size": "Free Size",
+        "quantity": 1,
+        "unitPrice": 1299
+      }
+    ],
+    "totalAmount": 3298,
+    "orderDate": "2026-10-03T07:15:00.000Z",
+    "status": "Shipped"
+  }
+]
